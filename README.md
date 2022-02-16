@@ -1,2 +1,2 @@
-# Q1-Answer
-Jawaban Q1 untuk tes GMEDIA
+# Answer
+Jawaban untuk tes GMEDIA terdapat pada folder sesuai nama.
